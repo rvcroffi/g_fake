@@ -1,0 +1,8 @@
+{
+  "Consulta": {
+    "data": "date",
+    "hora": "date",
+    "local": "string",
+    "paciente": "string"
+  }
+}
