@@ -5,7 +5,7 @@
     "hora": "10:30",
     "paciente": "Fiuk Leite",
     "local": "Klínica Conká",
-    "logo": "https://s3-sa-east-1.amazonaws.com/genu-webcontent/profissional/PortalMedico/WebContent/assets/images/genu.png"
+    "logo": "https://genu-webcontent.s3-sa-east-1.amazonaws.com/profissional/PortalMedico/WebContent/assets/images/banner_genu.png"
   },
   {
     "id": 456,
