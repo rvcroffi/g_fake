@@ -5,7 +5,7 @@
     "hora": "10:30",
     "paciente": "Fiuk Leite",
     "local": "Klínica Conká",
-    "foto": "https://static1.purepeople.com.br/articles//7/31/11/57/@/3519033--bbb21-fiuk-dispensa-casal-com-thais-e-amp_story_icon-3.jpg"
+    "logo": "https://img2.gratispng.com/20180720/cgi/kisspng-logo-clinic-family-medicine-physician-family-walk-5b5213025e5133.8741793415321054743863.jpg"
   },
   {
     "id": 456,
@@ -13,7 +13,7 @@
     "hora": "11:30",
     "paciente": "Judite Maria",
     "local": "Klínica Conká",
-    "foto": ""
+    "logo": ""
   },
   {
     "id": 789,
@@ -21,6 +21,6 @@
     "hora": "14:30",
     "paciente": "Kim Kataguiri Suenaga",
     "local": "Klínica Conká",
-    "foto": ""
+    "logo": ""
   }]
 }
